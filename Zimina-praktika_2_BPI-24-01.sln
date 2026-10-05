@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37627.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zimina-praktika_2_BPI-24-01", "Zimina-praktika_2_BPI-24-01\Zimina-praktika_2_BPI-24-01.csproj", "{7766B9C1-BF07-4EAD-96EE-36408F618FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7766B9C1-BF07-4EAD-96EE-36408F618FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7766B9C1-BF07-4EAD-96EE-36408F618FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7766B9C1-BF07-4EAD-96EE-36408F618FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7766B9C1-BF07-4EAD-96EE-36408F618FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1353F48-8AAC-4DED-9FC1-50F43702A630}
+	EndGlobalSection
+EndGlobal
